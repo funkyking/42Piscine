@@ -1,0 +1,7 @@
+Make.exe -f C:\Users\Paul\Desktop\42kl\Cursus\Libft --dry-run --always-make --keep-going --print-directory
+Make.exe: Entering directory `c:/Users/Paul/Desktop/42kl/Cursus/Libft'
+Make.exe: Leaving directory `c:/Users/Paul/Desktop/42kl/Cursus/Libft'
+ 
+Make.exe: C:\Users\Paul\Desktop\42kl\Cursus\Libft: Permission denied
+Make.exe: *** No targets.  Stop.
+

@@ -1,0 +1,53 @@
+Total  = 43 functions
+1- isalpha - y
+2- isdigit -y
+3- isalnum -y
+4- isascii - y
+5- isprint - y
+6- strlen - y
+7- memset - y
+8- bzero - y
+9- memcpy - y
+10- memmove - y
+11- strlcpy - y
+12- strlcat - y
+
+13- toupper - y
+14- tolower - y
+15- strchr - y
+16- strrchr - y
+17- strncmp - y
+18- memchr - y
+19- memcmp - y
+20- strnstr - y
+21- atoi - y
+22- calloc - y
+23- strdup - y
+
+
+bonus
+
+1- substr - y
+2- strjoin - y
+3- strtrim - y
+4- split - y
+5- itoa - y
+6- strmapi - y
+7- striteri - (y)**added to the functions
+8- putchar_fd - y
+9- putstr_fd - y
+10- putendl_fd - y
+11- putnbr_fd - y
+
+for list 
+
+1- lstnew - y
+2- lstadd_front - y
+3- lstsize - y
+4- lstlast - y
+5- lstadd_back - y
+6- lstdelone - y
+7- lstclear - y
+8- lstiter - y
+9- lstmap - y
+

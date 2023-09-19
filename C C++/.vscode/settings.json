@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iomanip": "c",
+        "iostream": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "xiosbase": "c",
+        "conio.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c"
+    }
+}
